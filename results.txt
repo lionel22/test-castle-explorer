@@ -1,0 +1,6 @@
+roomsCount: 98590, rooms time: 9 minutes
+chestsCount: 492788, chests time: 38 minutes
+
+took: 38 minutes
+
+fullChestCount: 466

@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "outDir": "./lib",
+    "target": "es6",
+    "rootDir": "./app",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "declaration": true,
+    "alwaysStrict": true
+  },
+  "include": [
+    "./app/**/*"
+  ],
+  "exclude": [
+    "./lib",
+    "./node_modules"
+  ]
+}
